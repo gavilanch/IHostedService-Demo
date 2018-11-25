@@ -1,0 +1,36 @@
+WriteToFileHostedService: Process Started
+WriteToFileHostedService: Doing some work at 25-11-2018 10:36:31
+WriteToFileHostedService: Doing some work at 25-11-2018 10:36:36
+WriteToFileHostedService: Doing some work at 25-11-2018 10:36:41
+WriteToFileHostedService: Doing some work at 25-11-2018 10:36:46
+WriteToFileHostedService: Doing some work at 25-11-2018 10:36:51
+WriteToFileHostedService: Doing some work at 25-11-2018 10:36:56
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:01
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:06
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:11
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:16
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:21
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:26
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:31
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:36
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:41
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:46
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:51
+WriteToFileHostedService: Doing some work at 25-11-2018 10:37:56
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:01
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:06
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:11
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:16
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:21
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:26
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:31
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:36
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:41
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:46
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:51
+WriteToFileHostedService: Doing some work at 25-11-2018 10:38:56
+WriteToFileHostedService: Doing some work at 25-11-2018 10:39:01
+WriteToFileHostedService: Doing some work at 25-11-2018 10:39:06
+WriteToFileHostedService: Doing some work at 25-11-2018 10:39:11
+WriteToFileHostedService: Doing some work at 25-11-2018 10:39:16
+WriteToFileHostedService: Process Stopped
